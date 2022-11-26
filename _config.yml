@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Vipul Resume"
+description: "A resume template for Vipul and GitHub Pages sites."
 
 # Build settings
 markdown: kramdown
@@ -23,7 +23,9 @@ resume_contact_address:         "5/1 Johnston Street, Newport, Victoria, Austral
 resume_header_contact_info:     "5/1 Johnston Street, Newport, Victoria, Australia 3015 • +61 4344-43228 • 007.vipul.j@gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>Data Scientist and Analyst who likes to solve problems using data+code. Proficient in the field of Machine Learning and Artificial Intelligence. Other interests include building TimeSeries Models, Data Visualization and Sales & Profit Forecasting.</p>
+            <p>Respected for organizational and interpersonal aptitudes, implementation of strategic initiatives, project management and results-focused interactions across organization.</p>
+            <p>Pursuing Master of Data Science, RMIT University, following an interest in Machine Learning and Artificial Intelligence with <b>Full-Time working rights in Australia</b>.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
