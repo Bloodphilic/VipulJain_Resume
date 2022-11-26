@@ -20,7 +20,8 @@ resume_contact_email:           "007.vipul.j@gmail.com"
 resume_contact_telephone:       "+61 4344-43228"
 resume_contact_address:         "5/1 Johnston Street, Newport, Victoria, Australia 3015"
 
-resume_header_contact_info:     "5/1 Johnston Street, Newport, Victoria, Australia 3015 • +61 4344-43228 • 007.vipul.j@gmail.com"
+resume_header_contact_info:     "5/1 Johnston Street, Newport, Victoria, Australia 3015 
+                                  • +61 4344-43228 • 007.vipul.j@gmail.com"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Data Scientist and Analyst who likes to solve problems using data+code. Proficient in the field of Machine Learning and Artificial Intelligence. Other interests include building TimeSeries Models, Data Visualization and Sales & Profit Forecasting.</p>
