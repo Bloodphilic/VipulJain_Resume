@@ -3,17 +3,20 @@
   uni: Royal Melbourne Institute of Technology, Australia
   year: 2021 &mdash; 2023 (Present)
   projects:
-    - project:
-              Built a ranking model using LightGBM, predicting page ranking for an unseen dataset and using common learn-to-rank features
-              Estimated a user review score in a recommender system, using various ML algorithms, comparing results through matrix factorization, slopOne and co-clustering
-              Modeled and predicted AUD-INR exchange rate, using time-series forecasting models, performing model comparisons through evaluation measures such as ACF/PACF, EACF
-              Used linear equations optimizations in python, to handle multi route problems, built Sudoku solver and production chain optimizations
+    - project: <ul>
+              <li>Built a ranking model using LightGBM, predicting page ranking for an unseen dataset and using common learn-to-rank features</li>
+              <li>Estimated a user review score in a recommender system, using various ML algorithms, comparing results through matrix factorization, slopOne and co-clustering</li>
+              <li>Modeled and predicted AUD-INR exchange rate, using time-series forecasting models, performing model comparisons through evaluation measures such as ACF/PACF, EACF</li>
+              <li>Used linear equations optimizations in python, to handle multi route problems, built Sudoku solver and production chain optimizations</li>
+            </ul>
   summary: Based on my professionl experience and grades, I was able to convince my programme manager to substitute basic courses with few of the core ones like Artificial Intelligence, Advance Optimization with Python.
 
 - degree: B.Tech in Engineering Physics
   uni: Delhi Technological University, India
-  year: 2009 &mdash; 2013
+  year: 2004
   projects:
-    - project: A Machine Learning model to predict the AQI Index of Delhi, India based on features like Month Time, festivals, temperature, etc.
+    - project: <ul>
+              <li>A Machine Learning model to predict the AQI Index of Delhi, India based on features like Month Time, festivals, temperature, etc.</li>
+            </ul>
   summary: Relevant Coursework - Mathematical Physics, HTML, CSS, Quantum Physics.
 
