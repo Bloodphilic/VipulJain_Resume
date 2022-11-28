@@ -1,9 +1,16 @@
 # Jobs
 # VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: GoldVIP Technology Solutions Pvt. Ltd.
+  position: Innovation Lead | Data Analytics and Science
+  duration: Nov, 2018 &mdash; Feb, 2022
+  summary: <ul class="resume-item-list">
+                <li>Developed, maintained and analysed annual project budgets (> $200,000 pm)</li>  
+                <li>Developed AI tool reducing decision time to one-tenth and improving 5 times the staff efficiency Reduced communication cost by 60%, costing 5% performance, and ensemble model of K-means and random forest</li>
+                <li>Implemented LightGBM predictions, ranking and improving user's online performance</li>
+                <li>Developed an algorithm to identify bad quality users, improving data quality by 3 times</li>
+                <li>Developed user based demand forecasting, enabling improved budget planning for acquisition, retention and resurrection</li>
+                <li>Delivered performance reports to senior management and executives, providing customer performance insights</li>
+                </ul>
 
 # Director of Digital Stratgy
 - company: United Nations Human Rights Council
