@@ -3,7 +3,7 @@
   uni: Royal Melbourne Institute of Technology, Australia
   year: 2021 &mdash; 2023 (Present)
   projects:
-    - project: <ul>
+     <ul>
               <li>Built a ranking model using LightGBM, predicting page ranking for an unseen dataset and using common learn-to-rank features</li>
               <li>Estimated a user review score in a recommender system, using various ML algorithms, comparing results through matrix factorization, slopOne and co-clustering</li>
               <li>Modeled and predicted AUD-INR exchange rate, using time-series forecasting models, performing model comparisons through evaluation measures such as ACF/PACF, EACF</li>
@@ -15,7 +15,7 @@
   uni: Delhi Technological University, India
   year: 2004
   projects:
-    - project: <ul>
+     <ul>
               <li>A Machine Learning model to predict the AQI Index of Delhi, India based on features like Month Time, festivals, temperature, etc.</li>
             </ul>
   summary: Relevant Coursework - Mathematical Physics, HTML, CSS, Quantum Physics.
