@@ -14,8 +14,6 @@
   uni: Delhi Technological University, India
   year: 2004
   projects:
-    - project: <ul>
-              <li>A Machine Learning model to predict the AQI Index of Delhi, India based on features like Month Time, festivals, temperature, etc.</li>
-            </ul>
+    - project: A Machine Learning model to predict the AQI Index of Delhi, India based on features like Month Time, festivals, temperature, etc.
   summary: Relevant Coursework - Mathematical Physics, HTML, CSS, Quantum Physics.
 
