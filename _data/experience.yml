@@ -1,5 +1,5 @@
 # Jobs
-# VP of Global Communications
+# Innovation Lead | Data Analytics and Science
 - company: GoldVIP Technology Solutions Pvt. Ltd.
   position: Innovation Lead | Data Analytics and Science
   duration: Nov, 2018 &mdash; Feb, 2022
@@ -12,15 +12,39 @@
                 <li>Delivered performance reports to senior management and executives, providing customer performance insights</li>
                 </ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Analytics Specialist | Data Analytics
+- company: GoldVIP Technology Solutions Pvt. Ltd.
+  position: Analytics Specialist | Data Analytics
+  duration:  Oct, 2017 &mdash; Nov, 2018
+  summary: <ul class="resume-item-list">
+              <li>Developed an algorithm through analysis of cost spent on social media platforms by demographics, improving LTV by 2 times</li>
+              <li>Collaborated in the development of a recommendation system, increasing 60% transaction rate and reducing 80% daily notifications</li>
+              <li>Predicted user demand, differentiated by demographics, using time-series analysis and forecasting</li>
+              <li>Decreased user acquisition cost by 98% via gamification of business processes</li>
+              <li>Implemented business strategies in marketing (Golden Ratio), and analytics, increasing 4 times the gross margin</li>
+            </ul>
+
+# Business Analyst
+- company: GoldVIP Technology Solutions Pvt. Ltd.
+  position: Business Analyst
+  duration:  Jun, 2016 &mdash; Oct, 2017
+  summary: <ul class="resume-item-list">
+              <li>Developed myriad of automated processes, using python scripting, supporting financial reporting, invoice delivery, and efficiency improvement opportunities</li>
+            </ul>
+
+# Analyst | Data Analytics
+- company: Axsiom Domains Private Ltd.
+  position: Analyst | Data Analytics
+  duration:  Oct, 2014 &mdash; Jul, 2015
+  summary: <ul class="resume-item-list">
+              <li>Developed detailed technical financial models to value potential acquisition targets and acquired domain names, resulting in profit of $35,000</li>
+            </ul>
 
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Analyst | Commodity Markets
+- company: Futures First Info Services Pvt. Ltd.
+  position: Analyst | Commodity Markets
+  duration:  Nov, 2013 &mdash; May, 2014
+  summary: <ul class="resume-item-list">
+              <li>Analyzed stock, sector and market for Gold in CME, generating USD $2,400 in profit; and assessed hourly market conditions to look for hedge and arbitrage opportunities</li>
+            </ul>
