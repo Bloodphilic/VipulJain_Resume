@@ -12,7 +12,7 @@
 
 - degree: B.Tech in Engineering Physics
   uni: Delhi Technological University, India
-  year: 2004
+  year: 2009 &mdash; 2013
   projects:
     - project: A Machine Learning model to predict the AQI Index of Delhi, India based on features like Month Time, festivals, temperature, etc.
   summary: Relevant Coursework - Mathematical Physics, HTML, CSS, Quantum Physics.
